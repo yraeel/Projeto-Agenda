@@ -1,5 +1,6 @@
 Iniciar o projeto Django
 
+outra coisa
 
 python -m venv venv
 . venv/bin/activate
